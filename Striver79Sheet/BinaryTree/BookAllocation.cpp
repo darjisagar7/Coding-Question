@@ -1,4 +1,4 @@
-## https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/
+//  https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/
 
 #include <iostream>
 #include <vector>
